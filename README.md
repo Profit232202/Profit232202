@@ -33,4 +33,6 @@
   *	Pricing Strategy: Determine the average price per unit to access the pricing strategy
   *	Margin Analysis: Evaluate the average margin to understand the overall profitability of sales
 
+## RESULT OVERVIEW
+![adidas](https://github.com/user-attachments/assets/af9026b1-559b-445a-97c9-619e95e67c6c)
 
