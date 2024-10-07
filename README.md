@@ -36,3 +36,25 @@
 ## RESULT OVERVIEW
 ![adidas](https://github.com/user-attachments/assets/af9026b1-559b-445a-97c9-619e95e67c6c)
 
+## ACTIONABLE RECOMMENDATION
+
+1. **Regional Sales Focus**
+  * The West region generates the highest sales ($270M), there is room to focus on the Northeast ($145M) and Southeast ($163M) regions. Targeted marketing and promotions in these regions could help boost sales and narrow the gap with the leading West region.
+  * Since the West is performing the best, consider maintaining or optimizing inventory and operational efficiency rather than focusing on aggressive growth in that region.
+2. **Product Mix Optimization**
+  * Increase Focus on Men's Street Footwear because it's a that category leads sales with $209M. Prioritizing product innovation, marketing, and partnerships in this category could further capitalize on demand.
+  * Underserved Categories: Categories like Women's Athletic Footwear ($107M) and Men's Apparel ($124M) are lagging. Consider improving product assortment, enhancing the user experience, or offering better pricing in these categories to stimulate demand.
+3. **Retailer Strategy**
+ * Strengthen Partnerships with West Gear and Foot Locker, These two retailers are driving significant sales ($243M and $220M, respectively). Focusing on exclusive product launches, promotions, or marketing initiatives with these top retailers could further boost sales through these channels.
+ * Optimize Performance in Lower-Performing Retailers, Walmart and Amazon show the lowest sales figures ($75M and $78M, respectively). Consider offering retailer-specific discounts, promotions, or exclusive product offerings to improve sales from these channels.
+4. **Month-wise Sales Management**
+ * Peak in July: Sales peak in July ($95M). To smooth out revenue fluctuations, consider running mid-year campaigns in May and June to build momentum for the summer peak. Additionally, evaluate what product categories are driving the peak and consider expanding inventory or marketing around these.
+ * Off-Peak Strategy: Months like February ($61M) and September ($64M) show dips in sales. Use promotional activities, targeted campaigns, or new product launches to boost sales during these off-peak periods.
+5. **Pricing Strategy**
+* Price per Unit is $45: Evaluate whether this price point is aligned with competitors and consumer expectations. For lower-performing product categories, consider running limited-time price reductions or bundle offers to incentivize purchases.
+* Promotional Pricing: Run targeted price promotions in regions or product categories where sales are lower, such as in the Midwest ($136M) or Women's Athletic Footwear ($107M).
+6. **Operating Margin Improvement**
+ * Optimize Supply Chain in High-Cost Regions: The Midwest and South regions have relatively lower sales. Investigating the supply chain or distribution costs in these regions might uncover opportunities to cut costs and improve margins.
+ * Focus on High-Margin Products: Invest more in the promotion and development of high-margin product lines, which might be contributing to the current 42% margin.
+7. **Geographic Expansion**
+* Total Sales by State: States like California and New York seem to contribute a significant share to the overall sales. Consider conducting a deeper state-by-state analysis to identify untapped regions where there is potential for growth, particularly in underperforming states.
